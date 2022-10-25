@@ -1,0 +1,4 @@
+resource "aws_key_pair" "keypair" {
+  key_name   = "keypair"
+  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDCjjMf4dPSrD/FoagDlhCqBD5OWse2XELEk0TpY+YKPnv4APNTqLGKBhC3LRhw1RWi9yUcuWwYP0v7eG+efHLxJFxK5r6F9eg3ly/KgrL2fskYnX9yA3PTSs+fKNlC8zh1bXsRgafPsvE6bi+0Gg0oU6sKur+nwo5uEoM8e8vT5vSDr+Nzfo0RptLYGg9Q7epmJIXU6rCB3/7cFgN33CPOaGFNZrjUA4a77bCMer0CVlM/+QxG5fizrUvCyl5ZuihTVcxBfXz4IrKmJXbdGew/Dh87oa0VgpTp9qptvSrrYP8LKyRLr+90Z82rlMyFfnH27RMUzPY+vsWJFddjKU2W4is0hVsFxv4E2REM/8L+/KWcr5owhksF/EOoJoLb8io5O/N3rws6BpKQKGtv80SWsCbpaTnoNodSAYRdqRvwXjasmuE1VeGlfpQf0g0BfdXwGCEXGnVvApEFTw2jLel+7ndR61O53mn15ZfRUDI+OvF7udT3gVVTrI7Vbzgi2A8= mohshaik@DVCINH6092401"
+}
